@@ -1,12 +1,7 @@
 # Treadspace +1 | Adaptive 120-day employee ramp
 
-An interactive, front-end-only P0 concept demonstration based on the provided Treadspace +1 screenshots. The prototype illustrates **one coordinated employee experience** from joining through meaningful work, review, targeted learning, support, and broader ownership.
+An interactive, front-end-only P0 concept demonstration. The prototype illustrates **one coordinated employee experience** from joining through meaningful work, review, targeted learning, support, and broader ownership.
 
-## Open the demo
-
-**Easiest:** open `Treadspace_Plus1_Interactive_Demo.html` from the download (a standalone version is provided alongside this ZIP). It contains its styling, JavaScript, example content, and illustrative employee portrait. It runs offline in a modern browser.
-
-**This repository / GitHub Pages:** open `index.html`, or upload all the files and folders in this ZIP to your GitHub repository. In GitHub, select **Settings → Pages → Deploy from a branch → main → /(root)**. GitHub Pages will then serve `index.html`. No installation, build tools, API keys or dependencies are required.
 
 ## Navigation
 
